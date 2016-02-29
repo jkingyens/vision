@@ -1,4 +1,5 @@
-# vision
+# Server-side Google Cloud Vision sample 
+
 Server-side cloud vision for detecting a dog in image
 
 1. From the Google Cloud Platform console, select "API Manager".
